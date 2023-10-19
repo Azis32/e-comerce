@@ -1,0 +1,26 @@
+<style type="text/css">
+	h4{
+		border-bottom: 1px dashed #dcdcdc; 
+		padding-left: 10px;
+		background-color: #eee;
+		padding-top: 16px;
+		padding-bottom: 5px;
+		margin-top: 0;
+	}
+	
+	.tombol-tambah{
+		margin-left: 10px;
+		margin-bottom: 3px;
+	}
+	.tabel-data{
+		margin-left: 10px;
+		margin-right: 10px;
+		margin-bottom: 10px;
+	}
+	.tabel-border{
+		padding: 7px 7px 0 7px;
+	}
+	.shadow-data{
+		box-shadow: 10px black;
+	}
+</style>
